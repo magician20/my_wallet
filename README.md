@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a UI Crypto Wallet Design.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+https://user-images.githubusercontent.com/11742710/160255770-fba250d8-be6e-4ecd-bc16-d83c955a9822.mp4
+
