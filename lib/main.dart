@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // This is the theme of your application.
         primaryColor: primary,
-        // brightness: Brightness.dark,
+        // brightness: Brightness.light,
       ),
       home:const Home(),
     );

@@ -17,7 +17,7 @@ const stayColor = Colors.black87;
 const shadowColor = Color(0xFF97AFB9);
 
 
-const primary = Color(0xFFEFF5EE);//460F9D
+const primary = Color(0xFFFFFFFF);//460F9D
 const secondary = Color(0xFF05AED5);//EFF5EE
 const secondary2 = Color(0xFF05AED5);
 const inActiveIcon = Color(0xFFEEE8A9);//05AED5
